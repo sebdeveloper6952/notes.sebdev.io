@@ -1,0 +1,1 @@
+- https://custom.ardupilot.org/builds/copter:SpeedyBeeF405Mini:a1421e7ece0ae7d224f1f1cabcb35152c0f6b42c:8a3ca864c4df9bd766ee0a70bd4057f0/

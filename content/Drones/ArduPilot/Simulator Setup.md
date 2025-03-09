@@ -1,0 +1,1 @@
+Refer to ArduPilot SITL setup with Gazebo and Ros.
