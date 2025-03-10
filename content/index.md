@@ -2,4 +2,3 @@
 title: Notes & Other Stuff
 ---
 
-
